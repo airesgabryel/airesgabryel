@@ -1,52 +1,65 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Fala aí! 👋 Seja bem-vindo ao meu GitHub</h1>
 
-###
+<p align="center">
+  Eu sou o <strong>Gabryel Aires</strong> — estudante de Análise e Desenvolvimento de Sistemas pela FATEC, desenvolvedor em formação e apaixonado por tecnologia. Estou sempre buscando evoluir minhas habilidades técnicas e contribuir com soluções criativas em projetos reais. 💻✨
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 🚀 Tecnologias que venho utilizando
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,flask,git,github,vite" height="60" />
 </div>
 
-###
+---
+
+### 🛠️ Em formação e constante evolução
+
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – FATEC (em andamento)  
+🎓 Técnico em Desenvolvimento de Sistemas – ETEC  
+📚 Bootcamp Full Stack – Vai na Web  
+🔗 Projetos com foco em front-end (React.js, SCSS modular, roteamento), back-end com Flask, integração com APIs REST, e versionamento com Git/GitHub.
+
+---
+
+### 💡 Alguns dos meus pontos fortes
+
+- Raciocínio lógico e foco na resolução de problemas  
+- Organização e proatividade no desenvolvimento de projetos  
+- Facilidade de aprendizado e adaptação a novas tecnologias  
+- Trabalho em equipe, boa comunicação e vontade de crescer junto
+
+---
+
+### 📈 Um pouco da minha jornada por aqui
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AiresGabryel&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AiresGabryel&theme=dracula&no-frame=false&no-bg=false&margin-w=8" height="150" alt="GitHub Trophy" />
 </div>
 
-###
+---
+
+### 🌐 Vamos nos conectar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabryel-aires-54a501233">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://github.com/AiresGabryel">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<p align="center">“Persistência é o caminho do êxito.” – Charles Chaplin</p>
