@@ -25,10 +25,10 @@
 
 ## Portfolio:
 - [Projeto Vai Na Web](https://github.com/AiresGabryel/sispar)
-- SISPAR - Sistema de Gestão de Despesas: Um sistema React moderno desenvolvido como desafio final do curso, focado no controle e solicitação de reembolsos, com funcionalidades como login, tela de reembolsos com listagem e solicitação, navegação intuitiva e persistência de dados via localStorage. O projeto também inclui um backend em Flask com endpoints para autenticação e gestão de colaboradores e reembolsos.
+SISPAR - Sistema de Gestão de Despesas: Um sistema React moderno desenvolvido como desafio final do curso, focado no controle e solicitação de reembolsos, com funcionalidades como login, tela de reembolsos com listagem e solicitação, navegação intuitiva e persistência de dados via localStorage. O projeto também inclui um backend em Flask com endpoints para autenticação e gestão de colaboradores e reembolsos.
 
 - [Bankrupt](https://github.com/AiresGabryel/Bankrupt)
-- Um projeto de simulação de um jogo de tabuleiro simplificado semelhante ao Banco Imobiliário, onde diferentes estratégias de jogadores são testadas em partidas com regras configuráveis.
+Um projeto de simulação de um jogo de tabuleiro simplificado semelhante ao Banco Imobiliário, onde diferentes estratégias de jogadores são testadas em partidas com regras configuráveis.
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
