@@ -14,7 +14,7 @@
   👨‍💻 More about me
 </p>
 <p>
-  - 💬 I am 26 years old, currently living in Brazil. I am also a former member of the military and have been fascinated by technology since childhood. In my free time, I enjoy practicing exercises at the gym and playing online strategy games. I have intermediary in English.
+  - 💬 I am 26 years old, currently living in Brazil. I am also a former member of the military and have been fascinated by technology since childhood. In my free time, I enjoy practicing exercises at the gym, playing online strategy games, and watching animes. I have fluency in English.
 </p>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" />](https://www.linkedin.com/in/airesgabryel)
