@@ -23,7 +23,7 @@
 ![AiresGabryel GitHub stats](https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=gotham)
 
 ## Portfolio:
-- [Projeto Sispar - Vai Na Web](https://github.com/AiresGabryel/sispar))
+- [Projeto Sispar - Vai Na Web](https://github.com/AiresGabryel/sispar)
 - [Bankrupt](https://github.com/AiresGabryel/Bankrupt)
 
 <p align="left">
