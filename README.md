@@ -13,7 +13,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English.
+  - 💬 I am 26 years old, currently living in Brazil. I am also a former member of the military and have been fascinated by technology since childhood. I have fluency in English.
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
