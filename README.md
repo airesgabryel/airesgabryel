@@ -25,8 +25,8 @@
 ![AiresGabryel GitHub stats](https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=gotham)
 
 ## Portfolio:
-- [Projeto Vai Na Web](Link para o projeto do Vai Na Web, se disponível)
-- [Outros projetos que você venha a ter ou queira adicionar]
+- [Projeto Vai Na Web]([Sispar](https://github.com/AiresGabryel/sispar))
+- [Bankrupt](https://github.com/AiresGabryel/Bankrupt)
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
