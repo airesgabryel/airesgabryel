@@ -10,12 +10,12 @@
   - 🔭 I am looking for my first job opportunity as a Software Developer or Systems Analyst, with a particular interest in creating innovative and efficient solutions.
 </p>
 
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 26 years old, currently living in Brazil. I am also a former member of the military and have been fascinated by technology since childhood. I have fluency in English.
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
+<p>
+  👨‍💻 More about me
+</p>
+<p>
+  - 💬 I am 26 years old, currently living in Brazil. I am also a former member of the military and have been fascinated by technology since childhood. In my free time, I enjoy practicing exercises at the gym and playing online strategy games. I have fluency in English.
+</p>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" />](https://www.linkedin.com/in/airesgabryel)
 [Entre em contato por e-mail](mailto:56Gabryel@gmail.com)
