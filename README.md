@@ -18,14 +18,12 @@
 </details>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" />](https://www.linkedin.com/in/airesgabryel)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[Entre em contato por e-mail](mailto:56Gabryel@gmail.com)
 
 ![AiresGabryel GitHub stats](https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=gotham)
 
 ## Portfolio:
-- [Projeto Vai Na Web]([Sispar](https://github.com/AiresGabryel/sispar))
+- [Projeto Sispar - Vai Na Web](https://github.com/AiresGabryel/sispar))
 - [Bankrupt](https://github.com/AiresGabryel/Bankrupt)
 
 <p align="left">
