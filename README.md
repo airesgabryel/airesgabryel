@@ -60,6 +60,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ---
 
 <p align="center">“Persistência é o caminho do êxito.” – Charles Chaplin</p>
