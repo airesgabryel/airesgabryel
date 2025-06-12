@@ -19,12 +19,15 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" />](https://www.linkedin.com/in/airesgabryel)
 [Entre em contato por e-mail](mailto:56Gabryel@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 ![AiresGabryel GitHub stats](https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=gotham)
 
 ## Portfolio:
-- [Projeto Sispar - Vai Na Web](https://github.com/AiresGabryel/sispar)
-- [Bankrupt](https://github.com/AiresGabryel/Bankrupt)
+- [Projeto Vai Na Web](Link para o projeto do Vai Na Web, se disponível)
+- [Outros projetos que você venha a ter ou queira adicionar]
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
