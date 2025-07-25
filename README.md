@@ -27,7 +27,6 @@
 
 - [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
 O BattleGuide é um projeto que desenvolvi com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
-
 Através de engenharia de prompt, ajustei a comunicação com a IA para gerar respostas precisas e contextualizadas, como sugestões de builds, táticas para campeões e decisões em tempo real. A interface foi projetada com uma temática gamer, responsiva e inspirada em painéis HUD, oferecendo uma experiência imersiva e intuitiva.
   
 - [Projeto Vai Na Web](https://github.com/AiresGabryel/sispar)
