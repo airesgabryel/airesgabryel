@@ -37,34 +37,30 @@ SISPAR - Sistema de Gestão de Despesas: Um sistema React moderno desenvolvido c
 - [Bankrupt](https://github.com/AiresGabryel/Bankrupt)
 Um projeto de simulação de um jogo de tabuleiro simplificado semelhante ao Banco Imobiliário, onde diferentes estratégias de jogadores são testadas em partidas com regras configuráveis.
 
-### ⚙️ GitHub Analytics
+## 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Estatísticas do GitHub de Gabryel"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Linguagens Mais Usadas por Gabryel"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AiresGabryel&theme=dark&hide_border=false"
-        alt="Sequência de Contribuições de Gabryel"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub de Gabryel"
+    height="200"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Linguagens Mais Usadas por Gabryel"
+    height="200"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AiresGabryel&theme=dark&hide_border=false"
+    alt="Sequência de Contribuições de Gabryel"
+  />
+</p>
+
+
+
 
 ## 🚀 Minhas Habilidades
 
