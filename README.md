@@ -1,41 +1,29 @@
 # Gabryel Aires | Desenvolvedor de Software em Formação
 
-<p align="left"> 
-  <h3>Olá! 👋</h3>
-</p>
+### Olá! 👋 Eu sou o Gabryel.
 
-<p align="left">
-  Sou um profissional em transição de carreira e estudante de Análise e Desenvolvimento de Sistemas, movido pelo desafio de criar soluções através da tecnologia. Minha experiência prévia me deu uma base sólida em disciplina e resolução de problemas, habilidades que hoje aplico no meu desenvolvimento como programador.
-</p>
+Sou um profissional de 26 anos em transição de carreira e estudante de Análise e Desenvolvimento de Sistemas, guiado por uma mentalidade de disciplina e foco forjada durante meu serviço militar. Essa jornada é a realização de uma paixão pela tecnologia que vem desde a infância, e hoje aplico essa dedicação para me tornar um programador focado em solucionar problemas.
 
-<p align="left">
-  <strong>O que estou aprendendo e praticando:</strong>
-</p>
+---
 
-- 💻 **Desenvolvimento Back-end:** Aprofundando em .NET/C# para a criação de sistemas robustos e escaláveis.
-- 🌐 **Desenvolvimento Full Stack:** Construindo aplicações de ponta a ponta com Python, Flask, React e JavaScript.
-- 🛡️ **Fundamentos de Cibersegurança:** Porque acredito que um ótimo software é, acima de tudo, um software seguro.
-- 🤖 **Inteligência Artificial:** Explorando o uso de APIs como a Gemini para projetos inovadores.
+### 🛠️ Para alcançar este objetivo, estas são minhas atuais áreas de foco:
 
-<p align="left">
-  Estou em busca de uma oportunidade de estágio para colocar minha paixão e meu conhecimento em prática, colaborar com uma equipe talentosa e crescer profissionalmente.
-</p>
+- **💻 Desenvolvimento Back-end:** Aprofundando em .NET/C# para a criação de sistemas robustos e escaláveis.
+- **🌐 Desenvolvimento Full Stack:** Construindo aplicações de ponta a ponta com Python, Flask, React e JavaScript.
+- **🛡️ Fundamentos de Cibersegurança:** Porque acredito que um ótimo software é, acima de tudo, um software seguro.
+- **🤖 Inteligência Artificial:** Explorando o uso de APIs como a Gemini para projetos inovadores.
 
-<p align="left">
+> Meu objetivo principal agora é encontrar uma oportunidade de estágio para colocar essa paixão e meu conhecimento em prática, colaborar com uma equipe talentosa e crescer profissionalmente, contribuindo para projetos inovadores.
+---
+
+### Entre em contato
+- Email: 56Gabryel@gmail.com
+- <p align="left">
   <a href="https://www.linkedin.com/in/airesgabryel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p>
-  👨‍💻 Minha Jornada até a Tecnologia
-</p>
-Olá! Tenho 26 anos e moro no Brasil. Minha história com a tecnologia começou na infância, mas minha jornada profissional me levou primeiro ao serviço militar. Lá, aprendi o valor da **disciplina** e do **foco**, e hoje, essa mesma mentalidade me guia na minha transição de carreira para a área de desenvolvimento de software.
-
-Quando não estou codificando, você provavelmente me encontrará na academia, mantendo o corpo e a mente em sintonia, ou imerso em um jogo de estratégia online. Acredito que a lógica para planejar uma tática em um jogo é surpreendentemente similar à de arquitetar um software ou resolver um bug complexo. É nesse cruzamento entre **estratégia**, **disciplina** e **criatividade** (inspirada por bons animes!) que eu encontro minha motivação.
-
-
-- Email: 56Gabryel@gmail.com
 
 ## Portfolio:
 
