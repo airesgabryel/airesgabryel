@@ -24,6 +24,12 @@
 -![AiresGabryel GitHub stats](https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=gotham)
 
 ## Portfolio:
+
+- [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
+O BattleGuide é um projeto que desenvolvi com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
+
+Através de engenharia de prompt, ajustei a comunicação com a IA para gerar respostas precisas e contextualizadas, como sugestões de builds, táticas para campeões e decisões em tempo real. A interface foi projetada com uma temática gamer, responsiva e inspirada em painéis HUD, oferecendo uma experiência imersiva e intuitiva.
+  
 - [Projeto Vai Na Web](https://github.com/AiresGabryel/sispar)
 SISPAR - Sistema de Gestão de Despesas: Um sistema React moderno desenvolvido como desafio final do curso, focado no controle e solicitação de reembolsos, com funcionalidades como login, tela de reembolsos com listagem e solicitação, navegação intuitiva e persistência de dados via localStorage. O projeto também inclui um backend em Flask com endpoints para autenticação e gestão de colaboradores e reembolsos.
 
