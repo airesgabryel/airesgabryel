@@ -13,11 +13,13 @@ Minha trajetória profissional anterior, que inclui atuação na administração
 ### 🛠️ Para alcançar este objetivo, estas são minhas atuais áreas de foco:
 
 - **💻 Desenvolvimento Back-end:** Aprofundando em .NET/C# para a criação de sistemas robustos e escaláveis.
+
 - **🌐 Desenvolvimento Full Stack:** Construindo aplicações de ponta a ponta com Python, Flask, React e JavaScript.
+
 - **🛡️ Fundamentos de Cibersegurança:** Porque acredito que um ótimo software é, acima de tudo, um software seguro.
+
 - **🤖 Inteligência Artificial:** Explorando o uso de APIs como a Gemini para projetos inovadores.
 
-> Meu objetivo principal agora é encontrar uma oportunidade de estágio para colocar essa paixão e meu conhecimento em prática, colaborar com uma equipe talentosa e crescer profissionalmente, contribuindo para projetos inovadores.
 ---
 
 ### Entre em contato
