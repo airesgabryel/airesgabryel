@@ -6,7 +6,7 @@ Sou um profissional em **transição de carreira** e estudante de **Análise e D
 
 <!--Minha trajetória profissional anterior, que inclui atuação na administração pública e no exército, me proporcionou competências valiosas como **disciplina, resiliência, organização e comunicação eficaz**. Hoje, busco unir essa maturidade profissional ao meu conhecimento técnico para atuar como Desenvolvedor de Software.
 
-> Meu objetivo é encontrar uma **oportunidade de estágio** onde eu possa aplicar minha capacidade de aprendizado rápido e minha dedicação para colaborar em projetos desafiadores. -->
+> Meu objetivo é encontrar uma **oportunidade de estágio** onde eu possa aplicar minha capacidade de aprendizado rápido e minha dedicação para colaborar em projetos desafiadores.
 
 ---
 
@@ -19,6 +19,7 @@ Sou um profissional em **transição de carreira** e estudante de **Análise e D
 - **🛡️ Fundamentos de Cibersegurança:** Porque acredito que um ótimo software é, acima de tudo, um software seguro.
 
 - **🤖 Inteligência Artificial:** Explorando o uso de APIs como a Gemini para projetos inovadores.
+-->
 
 ---
 
