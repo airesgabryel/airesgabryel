@@ -9,6 +9,9 @@ Sou um profissional em **transição de carreira** e estudante de **Análise e D
 > Meu objetivo é encontrar uma **oportunidade de estágio** onde eu possa aplicar minha capacidade de aprendizado rápido e minha dedicação para colaborar em projetos desafiadores.
 
 ---
+-->
+![Snake animation](https://github.com/AiresGabryel/AiresGabryel/blob/output/github-contribution-grid-snake.svg)
+<!--
 
 ### 🛠️ Para alcançar este objetivo, estas são minhas atuais áreas de foco:
 
