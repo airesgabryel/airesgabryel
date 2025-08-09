@@ -46,25 +46,16 @@ Um projeto de simulação de um jogo de tabuleiro simplificado semelhante ao Ban
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub de Gabryel"
-    height="200"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Linguagens Mais Usadas por Gabryel"
-    height="200"
-  />
-</p>
-
-<p align="center">
+<div align="center">
+<a href="https://github.com/AiresGabryel">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=AiresGabryel&theme=dark&hide_border=false"
     alt="Sequência de Contribuições de Gabryel"
   />
-</p>
+</div>
+
 
 
 
