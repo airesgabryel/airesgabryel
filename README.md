@@ -41,11 +41,11 @@ Sou um profissional em **transição de carreira** e estudante de **Análise e D
 O BattleGuide é um projeto que desenvolvi com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
 Através de engenharia de prompt, ajustei a comunicação com a IA para gerar respostas precisas e contextualizadas, como sugestões de builds, táticas para campeões e decisões em tempo real. A interface foi projetada com uma temática gamer, responsiva e inspirada em painéis HUD, oferecendo uma experiência imersiva e intuitiva.
   
-- [Projeto Vai Na Web](https://github.com/AiresGabryel/sispar)
-SISPAR - Sistema de Gestão de Despesas: Um sistema React moderno desenvolvido como desafio final do curso, focado no controle e solicitação de reembolsos, com funcionalidades como login, tela de reembolsos com listagem e solicitação, navegação intuitiva e persistência de dados via localStorage. O projeto também inclui um backend em Flask com endpoints para autenticação e gestão de colaboradores e reembolsos.
+- [NumSecreto](https://github.com/AiresGabryel/NumSecreto)
+Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e JavaScript. O objetivo é adivinhar um número secreto gerado aleatoriamente.
 
-- [Bankrupt](https://github.com/AiresGabryel/Bankrupt)
-Um projeto de simulação de um jogo de tabuleiro simplificado semelhante ao Banco Imobiliário, onde diferentes estratégias de jogadores são testadas em partidas com regras configuráveis.
+- [FilmRank](https://github.com/AiresGabryel/FilmRank)
+Aplicação web interativa que permite aos usuários votar em seus filmes favoritos, cadastrar novos títulos e visualizar os resultados em tempo real.
 
 ## 📊 Estatísticas do GitHub
 
