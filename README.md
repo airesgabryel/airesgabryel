@@ -53,14 +53,9 @@ Um projeto de simulação de um jogo de tabuleiro simplificado semelhante ao Ban
 <a href="https://github.com/AiresGabryel">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AiresGabryel&theme=dark&hide_border=false"
-    alt="Sequência de Contribuições de Gabryel"
-  />
 </div>
 
-
-
+![Gráfico de Atividade de Gabryel](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&color=ffffff&line=3b82f6&point=9333ea&area=true&hide_border=true)
 
 
 ## 🚀 Minhas Habilidades
