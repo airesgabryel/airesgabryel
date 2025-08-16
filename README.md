@@ -26,7 +26,7 @@ Sou um profissional em **transição de carreira** e estudante de **Análise e D
 
 ---
 
-### Entre em contato
+### Contato:
 - Email: 56Gabryel@gmail.com
 - <p align="left">
   <a href="https://www.linkedin.com/in/airesgabryel" target="_blank">
