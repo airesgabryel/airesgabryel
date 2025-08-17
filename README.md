@@ -59,7 +59,6 @@ Aplicação web interativa que permite aos usuários votar em seus filmes favori
 
 
 ## 🚀 Minhas Habilidades
-
 <table>
   <tr>
     <td valign="top" width="50%">
