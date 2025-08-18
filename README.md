@@ -55,7 +55,7 @@ Aplicação web interativa que permite aos usuários votar em seus filmes favori
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Gráfico de Atividade de Gabryel](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&color=ffffff&line=3b82f6&point=9333ea&area=true&hide_border=true)
+![Meu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&color=ffffff&line=3b82f6&point=9333ea&area=true&hide_border=true)
 
 
 ## 🚀 Minhas Habilidades
