@@ -1,6 +1,6 @@
 # Gabryel Aires | Desenvolvedor de Software em Formação
 
-### 👋 Olá! Me chamo Gabryel.
+### 👋 Olá, Me chamo Gabryel!
 
 Sou um profissional em **transição de carreira** e estudante de **Análise e Desenvolvimento de Sistemas**, com uma paixão por tecnologia e games. Com uma base sólida construída através de um curso técnico e diversas formações intensivas, incluindo desenvolvimento **Full Stack**, **Back-end com .NET/C#** e **Cibersegurança**, possuo um conjunto de habilidades versátil em linguagens como Python, C#, JavaScript e SQL.
 
