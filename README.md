@@ -10,9 +10,6 @@ Sou um profissional em **transição de carreira** e estudante de **Análise e D
 
 ---
 
-![Snake animation](https://github.com/AiresGabryel/AiresGabryel/blob/output/github-contribution-grid-snake.svg)
-
-
 ### 🛠️ Para alcançar este objetivo, estas são minhas atuais áreas de foco:
 
 - **💻 Desenvolvimento Back-end:** Aprofundando em .NET/C# para a criação de sistemas robustos e escaláveis.
