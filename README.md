@@ -9,7 +9,7 @@ Sou um profissional em transição de carreira e estudante de **Análise e Desen
 
 ---
 
-### 🛠️ Para alcançar este objetivo, estas são minhas atuais áreas de foco:
+### 🛠️ Estas são minhas atuais áreas de foco:
 
 - **💻 Desenvolvimento Back-end:** Aprofundando em .NET/C# para a criação de sistemas robustos e escaláveis.
 
