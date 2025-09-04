@@ -12,7 +12,6 @@ Sou um profissional em transição de carreira, com uma paixão por tecnologia F
 - 📫 Como entrar em contato comigo: **56gabryel@gmail.com**
 - 📄 Saiba mais sobre minhas [experiencias](https://tungsten-pudding-df2.notion.site/Gabryel-Aires-da-Silva-212a18ecf67680538153fb4e93abe955)
 
----
 <p align="left">Se conecte comigo:</p>
 <p align="left">
 <a href="https://linkedin.com/in/airesgabryel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airesgabryel" height="30" width="40" /></a>
