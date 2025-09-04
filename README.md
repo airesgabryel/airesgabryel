@@ -69,3 +69,5 @@ Aplicação web interativa que permite aos usuários votar em seus filmes favori
 
 ![Meu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&theme=merko&line=3b82f6&point=009900&area=true&hide_border=true)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=120&section=footer"/>
+
