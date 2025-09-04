@@ -1,36 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&left=true&vleft=true&width=1000&lines=Olá,+me+chamo+Gabryel+Aires;+Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&left=true&vleft=true&width=1000&lines=Seja+bem+vindo!)](https://git.io/typing-svg) 
 
+<h1 align="center">👋Olá, Eu sou Gabryel Aires da Silva</h1>
+<h3 align="left">Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Frontend</h3>
+<p align="left">
+Sou um profissional em transição de carreira, com uma paixão por tecnologia Front-end. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento **Full Stack** e técnico em **Desenvolvimento de Sistemas**.
+</p>
 
-Sou um profissional em transição de carreira e estudante de **Análise e Desenvolvimento de Sistemas**, com uma paixão por tecnologia Front-end. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas, incluindo desenvolvimento **Full Stack** e **Back-end com .NET/C#**  possuo um conjunto de habilidades versátil em linguagens como Python, React JS, C#, JavaScript e SQL.
-
-<!--Minha trajetória profissional anterior, que inclui atuação na administração pública e no exército, me proporcionou competências valiosas como **disciplina, resiliência, organização e comunicação eficaz**. Hoje, busco unir essa maturidade profissional ao meu conhecimento técnico para atuar como Desenvolvedor de Software.
-
-> Meu objetivo é encontrar uma **oportunidade de estágio** onde eu possa aplicar minha capacidade de aprendizado rápido e minha dedicação para colaborar em projetos desafiadores.
--->
+- 🌱 I’m currently learning **React Js, Javascript, C# and Python**
+- 📫 Como entrar em contato comigo: **56gabryel@gmail.com**
+- 📄 Saiba mais sobre minhas [experiencias](https://tungsten-pudding-df2.notion.site/Gabryel-Aires-da-Silva-212a18ecf67680538153fb4e93abe955)
 
 ---
-### REDES SOCIAIS
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airesgabryel/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airesgabryel/)
-### Contato:
-- 56Gabryel@gmail.com
+<h3 align="left">Se conecte comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/airesgabryel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airesgabryel" height="30" width="40" /></a>
+<a href="https://instagram.com/airesgabryel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="airesgabryel" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/v7a8QhXh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/v7a8QhXh" height="30" width="40" /></a>
+</p>
 
-
-
-## Portfolio
-
-- [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
-O BattleGuide é um projeto desenvolvido com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
-Através de engenharia de prompt, ajustei a comunicação com a IA para gerar respostas precisas e contextualizadas, como sugestões de builds, táticas para campeões e decisões em tempo real. A interface foi projetada com uma temática gamer, responsiva e inspirada em painéis HUD, oferecendo uma experiência imersiva e intuitiva.
-  
-- [NumSecreto](https://github.com/AiresGabryel/NumSecreto)
-Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e JavaScript. O objetivo é adivinhar um número secreto gerado aleatoriamente.
-
-- [FilmRank](https://github.com/AiresGabryel/FilmRank)
-Aplicação web interativa que permite aos usuários votar em seus filmes favoritos, cadastrar novos títulos e visualizar os resultados em tempo real.
-
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 
 ## 🌐 Estudando Neste Momento:
@@ -47,47 +38,18 @@ Aplicação web interativa que permite aos usuários votar em seus filmes favori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-</div><br/>
+## Portfolio
 
-## 🚀 Minhas Habilidades
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Linguagens & Frameworks</h3>
-      <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <p>
-          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3" />
-        </p>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Ferramentas, Conceitos & Metodologias</h3>
-      <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <p>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          <img src="https://img.shields.io/badge/Scrum-0073CF?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
-          <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-        </p>
-        <ul>
-          <li>Engenharia de Software</li>
-          <li>Fundamentos de Cibersegurança</li>
-          <li>Fundamentos de Dados & IA</li>
-          <li>Redes</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+- [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
+O BattleGuide é um projeto desenvolvido com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
+Através de engenharia de prompt, ajustei a comunicação com a IA para gerar respostas precisas e contextualizadas, como sugestões de builds, táticas para campeões e decisões em tempo real. A interface foi projetada com uma temática gamer, responsiva e inspirada em painéis HUD, oferecendo uma experiência imersiva e intuitiva.
+  
+- [NumSecreto](https://github.com/AiresGabryel/NumSecreto)
+Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e JavaScript. O objetivo é adivinhar um número secreto gerado aleatoriamente.
+
+- [FilmRank](https://github.com/AiresGabryel/FilmRank)
+Aplicação web interativa que permite aos usuários votar em seus filmes favoritos, cadastrar novos títulos e visualizar os resultados em tempo real.
+
 
 ## 📊 Estatísticas do GitHub
 
@@ -95,6 +57,7 @@ Aplicação web interativa que permite aos usuários votar em seus filmes favori
 <a href="https://github.com/AiresGabryel">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&layout=compact&langs_count=10&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airesgabryel&" alt="airesgabryel"/></p>
 </div>
 
 ![Meu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&color=ffffff&line=3b82f6&point=9333ea&area=true&hide_border=true)
