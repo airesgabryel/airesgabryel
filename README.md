@@ -2,15 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006600&size=35&left=true&vleft=true&width=1000&lines=Seja+bem+vindo!)](https://git.io/typing-svg) 
 
-<h1 align="center">👋Olá, Eu sou Gabryel Aires da Silva</h1>
-<h3 align="left">Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Frontend</h3>
-<p align="left">
+<div align="left">
+  <h1>👋 Olá, eu sou o Gabryel Aires da Silva</h1>
+  <h3>Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end</h3>
+</div>
+
+<br>
+
 Sou um profissional em transição de carreira, com uma paixão por tecnologia Front-end. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.
 </p>
+
+<br>
 
 - 🌱 Estou atualmente estudando **React Js, Javascript, C# and Python**
 - 📫 Como entrar em contato comigo: **56gabryel@gmail.com**
 - 📄 Saiba mais sobre minhas [experiencias](https://tungsten-pudding-df2.notion.site/Gabryel-Aires-da-Silva-212a18ecf67680538153fb4e93abe955)
+
+<br>
 
 <p align="left">Se conecte comigo:</p>
 <p align="left">
