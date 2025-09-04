@@ -1,34 +1,22 @@
-# Gabryel Aires | Desenvolvedor de Software em Formação
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
 
-###  👋 Olá, é um prazer!
-Sou um profissional em transição de carreira e estudante de **Análise e Desenvolvimento de Sistemas**, com uma paixão por tecnologia Front-end. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas, incluindo desenvolvimento **Full Stack** e **Back-end com .NET/C#**  possuo um conjunto de habilidades versátil em linguagens como Python, C#, JavaScript e SQL.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&left=true&vleft=true&width=1000&lines=Olá,+me+chamo+Gabryel+Aires;+Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!)](https://git.io/typing-svg) 
+
+
+Sou um profissional em transição de carreira e estudante de **Análise e Desenvolvimento de Sistemas**, com uma paixão por tecnologia Front-end. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas, incluindo desenvolvimento **Full Stack** e **Back-end com .NET/C#**  possuo um conjunto de habilidades versátil em linguagens como Python, React JS, C#, JavaScript e SQL.
 
 <!--Minha trajetória profissional anterior, que inclui atuação na administração pública e no exército, me proporcionou competências valiosas como **disciplina, resiliência, organização e comunicação eficaz**. Hoje, busco unir essa maturidade profissional ao meu conhecimento técnico para atuar como Desenvolvedor de Software.
 
 > Meu objetivo é encontrar uma **oportunidade de estágio** onde eu possa aplicar minha capacidade de aprendizado rápido e minha dedicação para colaborar em projetos desafiadores.
-
----
-
-### 🛠️ Estas são minhas atuais áreas de foco:
-
-- **💻 Desenvolvimento Back-end:** Aprofundando em .NET/C# para a criação de sistemas robustos e escaláveis.
-
-- **🌐 Desenvolvimento Full Stack:** Construindo aplicações de ponta a ponta com Python, Flask, React e JavaScript.
-
-- **🛡️ Fundamentos de Cibersegurança:** Porque acredito que um ótimo software é, acima de tudo, um software seguro.
-
-- **🤖 Inteligência Artificial:** Explorando o uso de APIs como a Gemini para projetos inovadores.
 -->
 
 ---
-
+### REDES SOCIAIS
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airesgabryel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airesgabryel/)
 ### Contato:
 - 56Gabryel@gmail.com
-- <p align="left">
-  <a href="https://www.linkedin.com/in/airesgabryel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+
 
 
 ## Portfolio
@@ -43,16 +31,23 @@ Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e Jav
 - [FilmRank](https://github.com/AiresGabryel/FilmRank)
 Aplicação web interativa que permite aos usuários votar em seus filmes favoritos, cadastrar novos títulos e visualizar os resultados em tempo real.
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-<a href="https://github.com/AiresGabryel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+## 🌐 Estudando Neste Momento:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-![Meu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&color=ffffff&line=3b82f6&point=9333ea&area=true&hide_border=true)
-
+</div><br/>
 
 ## 🚀 Minhas Habilidades
 <table>
@@ -70,7 +65,7 @@ Aplicação web interativa que permite aos usuários votar em seus filmes favori
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3" />
         </p>
       </div>
     </td>
@@ -93,3 +88,14 @@ Aplicação web interativa que permite aos usuários votar em seus filmes favori
     </td>
   </tr>
 </table>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+<a href="https://github.com/AiresGabryel">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&layout=compact&langs_count=10&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Meu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&color=ffffff&line=3b82f6&point=9333ea&area=true&hide_border=true)
+
