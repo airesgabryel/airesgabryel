@@ -1,9 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006600&size=35&left=true&vleft=true&width=1000&lines=Seja+bem+vindo!)](https://git.io/typing-svg) 
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fairesgabryel&s=50&c=006600&bg=00000000&no=7&ff=digi&tb=Visitante++Numero++#35++%3A++&ta=" /></p> 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006600&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo!&font=VT323)](https://git.io/typing-svg)
+
+</div>
 
 <div align="left">
-  <h1>👋 Olá, eu sou o Gabryel Aires da Silva</h1>
+  <h1>👋 Eu sou o Gabryel Aires da Silva</h1>
   <h3>Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end</h3>
 </div>
 
@@ -20,12 +25,22 @@ Sou um profissional em transição de carreira, com uma paixão por tecnologia F
 
 <br>
 
-<p align="left">Se conecte comigo:</p>
-<p align="left">
-<a href="https://linkedin.com/in/airesgabryel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="airesgabryel" height="30" width="40" /></a>
-<a href="https://instagram.com/airesgabryel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="airesgabryel" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/v7a8QhXh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/v7a8QhXh" height="30" width="40" /></a>
-</p>
+<div align="center"> 
+<a href="https://instagram.com/airesgabryel" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
+
+<a href="mailto:56gabryel@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+<a  href="https://www.linkedin.com/in/airesgabryel/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+---
+
+</div>
 
 ### 💻 Linguagens & Frameworks:
 ![JavaScript](https://img.shields.io/badge/JavaScript-051622?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -38,6 +53,8 @@ Sou um profissional em transição de carreira, com uma paixão por tecnologia F
 ![C++](https://img.shields.io/badge/C%2B%2B-051622?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-051622?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)&nbsp;
 
+---
+
 ### 🛠️ Ferramentas & Plataformas:
 ![Git](https://img.shields.io/badge/Git-051622?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-051622?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
@@ -45,7 +62,9 @@ Sou um profissional em transição de carreira, com uma paixão por tecnologia F
 ![Oracle](https://img.shields.io/badge/Oracle-051622?style=for-the-badge&logo=oracle&logoColor=F80000)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-051622?style=for-the-badge&logo=figma&logoColor=F24E1E)&nbsp;
 
-## 🌐 Estudando Neste Momento:
+---
+
+### 🌐 Estudando Neste Momento:
 ![JavaScript](https://img.shields.io/badge/JavaScript-051622?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/React-051622?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-051622?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
@@ -53,7 +72,7 @@ Sou um profissional em transição de carreira, com uma paixão por tecnologia F
 
 ---
 
-## Portfolio
+### Portfolio
 
 - [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
 O BattleGuide é um projeto desenvolvido com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
@@ -65,16 +84,22 @@ Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e Jav
 - [FilmRank](https://github.com/AiresGabryel/FilmRank)
 Aplicação web interativa que permite aos usuários votar em seus filmes favoritos, cadastrar novos títulos e visualizar os resultados em tempo real.
 
+---
 
-## 📊 Estatísticas do GitHub
+### 📊 Minhas estatísticas
 
 <div align="center">
 <a href="https://github.com/AiresGabryel">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiresGabryel&layout=compact&langs_count=10&theme=merko"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AiresGabryel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airesgabryel&theme=merko&" alt="airesgabryel"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airesgabryel&theme=merko&card_width=900" alt="airesgabryel"/></p>
 </div>
 
+
+
+
 ![Meu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&theme=merko&line=3b82f6&point=009900&area=true&hide_border=true)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=120&section=footer"/>
 
