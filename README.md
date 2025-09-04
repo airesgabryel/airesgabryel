@@ -9,19 +9,18 @@
 
 <div align="left">
   <h1>👋 Eu sou o Gabryel Aires da Silva</h1>
-  <h3>Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end</h3>
+  <h3>Estudante de <span style="color: #006600;">Análise e Desenvolvimento de Sistemas</span> e <span style="color: #006600;">Desenvolvedor Front-end</span></h3>
 </div>
 
 <br>
-
+<p>
 Sou um profissional em transição de carreira, com uma paixão por tecnologia Front-end. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.
 </p>
 
-<br>
+📄 Saiba mais sobre minhas [experiencias](https://tungsten-pudding-df2.notion.site/Gabryel-Aires-da-Silva-212a18ecf67680538153fb4e93abe955)
 
-- 🌱 Estou atualmente estudando **React Js, Javascript, C# and Python**
-- 📫 Como entrar em contato comigo: **56gabryel@gmail.com**
-- 📄 Saiba mais sobre minhas [experiencias](https://tungsten-pudding-df2.notion.site/Gabryel-Aires-da-Silva-212a18ecf67680538153fb4e93abe955)
+
+<br>
 
 <br>
 
