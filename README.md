@@ -8,7 +8,7 @@
 </div>
 
 <div align="left">
-  <h1>👋Prazer, me chamo Gabryel Aires da Silva.</h1>
+  <h1>👋Prazer, me chamo Gabryel.</h1>
   <h3>Estudante de <span style="color: #006600;">Análise e Desenvolvimento de Sistemas</span> e <span style="color: #006600;">Desenvolvedor Front-end.</span></h3>
 </div>
 
