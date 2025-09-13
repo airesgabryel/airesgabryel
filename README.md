@@ -17,7 +17,7 @@
 Sou um profissional em transição de carreira e Desenvolvedor Full Stack. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.
 </p>
 <!--
-📄 Saiba mais sobre minhas [experiencias](https://tungsten-pudding-df2.notion.site/Gabryel-Aires-da-Silva-212a18ecf67680538153fb4e93abe955)
+f
 -->
 
 <br>
