@@ -86,6 +86,8 @@ Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e Jav
 - [FilmRank](https://github.com/AiresGabryel/FilmRank)
 Aplicação web interativa que permite aos usuários votar em seus filmes favoritos, cadastrar novos títulos e visualizar os resultados em tempo real.
 
+- [Jogo Amigo Secreto](https://github.com/AiresGabryel/jogoAmigoSecreto)
+Aplicação web.
 ---
 
 ### 📊 Minhas estatísticas
