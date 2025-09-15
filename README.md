@@ -87,7 +87,7 @@ Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e Jav
 Aplicação web interativa que permite aos usuários votar em seus filmes favoritos, cadastrar novos títulos e visualizar os resultados em tempo real.
 
 - [Jogo Amigo Secreto](https://github.com/AiresGabryel/jogoAmigoSecreto)
-Aplicação web.
+Uma aplicação web interativa para organizar sorteios de amigo secreto de forma simples e divertida! Com ela, é possível adicionar participantes e realizar o sorteio aleatório, tornando a brincadeira mais prática e organizada.
 ---
 
 ### 📊 Minhas estatísticas
