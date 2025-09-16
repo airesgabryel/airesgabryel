@@ -13,7 +13,6 @@
 </div>
 
 <br>
-
 <p>Sou um profissional em transição de carreira e Desenvolvedor Full Stack. Possuo uma base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.</p>
 <!--
 f
@@ -64,7 +63,7 @@ f
 
 ---
 
-### 🌐 Estudando Neste Momento:
+### 🌐 Estudando Neste Momento: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-051622?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/React-051622?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-051622?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
