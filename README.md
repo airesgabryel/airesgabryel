@@ -8,7 +8,7 @@
 </div>
 
 <div align="left">
-  <h1>👋Prazer, me chamo Gabryel.</h1>
+  <h1>👋Prazer, me chamo Gabryel</h1>
   <h3>Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-end.</h3>
 </div>
 
