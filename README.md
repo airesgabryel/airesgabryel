@@ -43,7 +43,7 @@ f
 
 </div>
 
-### 💻 Linguagens & Frameworks:
+### 💻 Linguagens & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-051622?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/Python-051622?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 ![React](https://img.shields.io/badge/React-051622?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -56,7 +56,7 @@ f
 
 ---
 
-### 🛠️ Ferramentas & Plataformas:
+### 🛠️ Ferramentas & Plataformas
 ![Git](https://img.shields.io/badge/Git-051622?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-051622?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-051622?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
