@@ -79,7 +79,7 @@
 ### Portfolio
 
 - [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
-O BattleGuide é um projeto desenvolvido com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
+Projeto desenvolvido com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
 Através de engenharia de prompt, ajustei a comunicação com a IA para gerar respostas precisas e contextualizadas, como sugestões de builds, táticas para campeões e decisões em tempo real. A interface foi projetada com uma temática gamer, responsiva e inspirada em painéis HUD, oferecendo uma experiência imersiva e intuitiva.
   
 - [NumSecreto](https://github.com/AiresGabryel/NumSecreto)
@@ -103,7 +103,6 @@ Uma aplicação web interativa para organizar sorteios de amigo secreto de forma
 ![Gabryel's github activity graph](https://ssr-contributions-svg.vercel.app/_/airesgabryel?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=merko) 
 
 ![Meu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=AiresGabryel&bg_color=0d1117&theme=merko&line=3b82f6&point=009900&area=true&hide_border=true)
-
 
 </div>
 
