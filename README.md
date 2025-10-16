@@ -46,7 +46,7 @@
 
 </div>
 
-### 💻 Linguagens & Frameworks
+### 💻 Linguagens e Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-051622?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/Python-051622?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 ![React](https://img.shields.io/badge/React-051622?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
