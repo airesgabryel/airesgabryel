@@ -11,9 +11,7 @@
   <h1>👋Olá, eu me chamo Gabryel Aires</h1>
   <h3>Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor.</h3>
 </div>
-
 <br>
-
 <p>Sou um profissional em transição de carreira e Desenvolvedor Full Stack. Possuo base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.</p>
 
 
