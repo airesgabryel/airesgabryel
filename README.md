@@ -15,11 +15,7 @@
 <p>Sou um profissional em transição de carreira e Desenvolvedor Full Stack. Possuo base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.</p>
 
 
-<!--
 
--
-
--->
 
 
 
