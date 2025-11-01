@@ -5,6 +5,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006600&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo!&font=VT323)](https://git.io/typing-svg)
 
+
 </div>
 
 
@@ -14,8 +15,6 @@
 </div>
 <br>
 <p>Sou um profissional em transição de carreira e Desenvolvedor Full Stack. Possuo base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.</p>
-
-
 
 
 
