@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=120&section=header"/>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fairesgabryel&s=50&c=006600&bg=00000000&no=7&ff=digi&tb=Visitante++Numero++#35++%3A++&ta=" /></p> 
+  <p align="center"></p> 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006600&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo!&font=VT323)](https://git.io/typing-svg)
 
