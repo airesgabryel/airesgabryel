@@ -8,7 +8,6 @@
 
 </div>
 
-
 <div align="left">
   <h1>👋Olá, eu me chamo Gabryel Aires</h1>
   <h3>Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor.</h3>
