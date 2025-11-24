@@ -12,7 +12,7 @@
 
 <div align="left">
   <h1>👋Olá, eu me chamo Gabryel Aires</h1>
-  <h3>Sou estudante de Análise e Desenvolvimento de Sistemas e programador.</h3>
+  <h3>Sou estudante de Análise e Desenvolvimento de Sistemas e programador full stack.</h3>
 </div>
 <br>
 <p>Sou um profissional em transição de carreira e Desenvolvedor Full Stack. Possuo base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, incluindo desenvolvimento Full Stack e técnico em Desenvolvimento de Sistemas.</p>
@@ -89,7 +89,6 @@ Uma aplicação web interativa para organizar sorteios de amigo secreto de forma
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airesgabryel&theme=merko&card_width=900" alt="airesgabryel"/></p>
 
 ![Gabryel's github activity graph](https://ssr-contributions-svg.vercel.app/_/airesgabryel?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=merko) 
-
 
 </div>
 
