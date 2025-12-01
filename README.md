@@ -6,10 +6,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006600&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo!&font=VT323)](https://git.io/typing-svg)
 
-
 </div>
-
-
 
 <div align="left">
   <h1>👋Olá, eu me chamo Gabryel Aires</h1>
