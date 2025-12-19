@@ -90,11 +90,5 @@ Uma aplicação web interativa para organizar sorteios de amigo secreto de forma
 
 </div>
 
-
-
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=120&section=footer"/>
 
