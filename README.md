@@ -62,7 +62,7 @@
 
 ---
 
-### Portfolio
+### Meu Portfolio
 
 - [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
 Projeto desenvolvido com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
