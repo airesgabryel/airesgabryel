@@ -15,6 +15,7 @@
 <br>
 <p>Sou um profissional em transição de carreira em formação Full Stack. Possuo base sólida construída através de curso técnico e diversas formações intensivas e bootcamps, Cursando Análise e desenvolvimento de Sistemas (graduação), possuo técnico em Desenvolvimento de Sistemas.</p>
 
+
 <div align="center"> 
 
 
