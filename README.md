@@ -49,6 +49,8 @@
 
 ---
 
+
+
 ### 🛠️ Ferramentas & Plataformas
 ![Git](https://img.shields.io/badge/Git-051622?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-051622?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
