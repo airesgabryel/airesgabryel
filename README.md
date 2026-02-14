@@ -20,6 +20,9 @@
 
 
 
+
+
+
 <!--
 <a href="https://instagram.com/airesgabryel" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
@@ -48,9 +51,6 @@
 ![Bash](https://img.shields.io/badge/Bash-051622?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)&nbsp;
 
 ---
-
-
-
 ### 🛠️ Ferramentas & Plataformas
 ![Git](https://img.shields.io/badge/Git-051622?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-051622?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
@@ -68,7 +68,6 @@
 ---
 
 ### Meu Portfolio
-
 - [BattleGuide](https://github.com/AiresGabryel/BattleGuide)
 Projeto desenvolvido com foco em unir minha paixão por jogos e tecnologia com o poder da inteligência artificial generativa. Trata-se de um assistente virtual para gamers, construído com HTML, CSS e JavaScript puro, que utiliza a API Gemini (Google AI) para fornecer dicas estratégicas personalizadas durante partidas.
 Através de engenharia de prompt, ajustei a comunicação com a IA para gerar respostas precisas e contextualizadas, como sugestões de builds, táticas para campeões e decisões em tempo real. A interface foi projetada com uma temática gamer, responsiva e inspirada em painéis HUD, oferecendo uma experiência imersiva e intuitiva.
